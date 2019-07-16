@@ -1,4 +1,4 @@
-# Advanced Drupal 8 Snippets
+# Advanced Drupal 8 Snippets Vs Code
 
 This extension is inspired by the [Drupal 7 Sublime Text Extension Drupal Snippets](https://packagecontrol.io/packages/Drupal%20Snippets) by [juhasz](https://github.com/juhasz) 
 
