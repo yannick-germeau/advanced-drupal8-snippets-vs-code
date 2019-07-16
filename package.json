@@ -1,0 +1,25 @@
+{
+    "name": "advanced-drupal-8-snippets",
+    "displayName": "Advanced Drupal 8 Snippets",
+    "description": "Advanced Drupal 8.x hook snippets, including hook parameter type",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "php",
+                "path": "./snippets/snippets.json"
+            }
+        ],
+        "languages": [{
+            "id": "php",
+            "aliases": [ "PHP", "php" ],
+            "extensions": [ ".engine", ".install", ".inc", ".make", ".module", ".profile", ".test", ".theme"]
+        }]
+    }
+}
