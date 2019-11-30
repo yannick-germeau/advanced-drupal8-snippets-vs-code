@@ -15,7 +15,10 @@ It provides hook snippets with typed parameters and will replace automatically h
 -----------------------------------------------------------------------------------------------------------
 ## Release Notes
 
+### 0.0.2
+
+Update snippets (Core 8.7.10)
+
 ### 0.0.1
 
 Initial release of Advanced Drupal 8 Snippets (Core 8.6.9)
-
