@@ -1,14 +1,22 @@
 {
     "name": "advanced-drupal-8-snippets",
-    "displayName": "Advanced Drupal 8 Snippets",
+    "displayName": "Drupal 8 Snippets (Advanced)",
     "description": "Advanced Drupal 8.x hook snippets, including hook parameter type",
     "version": "0.0.1",
+
+    "publisher": "kaffeine",
     "engines": {
         "vscode": "^1.36.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yannick-germeau/advanced-drupal8-snippets-vs-code.git"
+    },
+    "icon": "images/drupal-8-logo.png",
     "categories": [
         "Snippets"
     ],
+    "keywords" :["snippets","drupal","drupal 8"],
     "contributes": {
         "snippets": [
             {
