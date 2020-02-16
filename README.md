@@ -15,6 +15,10 @@ It provides hook snippets with typed parameters and will replace automatically h
 -----------------------------------------------------------------------------------------------------------
 ## Release Notes
 
+### 0.0.3
+
+Update snippets (Core 8.8.2)
+
 ### 0.0.2
 
 Update snippets (Core 8.7.10)

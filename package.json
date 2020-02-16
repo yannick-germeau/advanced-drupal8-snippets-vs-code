@@ -2,7 +2,7 @@
     "name": "advanced-drupal-8-snippets",
     "displayName": "Drupal 8 Snippets (Advanced)",
     "description": "Advanced Drupal 8.x hook snippets, including hook parameter type",
-    "version": "0.0.2",
+    "version": "0.0.3",
 
     "publisher": "kaffeine",
     "engines": {
